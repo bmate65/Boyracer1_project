@@ -79,6 +79,7 @@
             this.Autóm.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.Autóm.TabIndex = 3;
             this.Autóm.TabStop = false;
+            this.Autóm.Click += new System.EventHandler(this.Autóm_Click);
             // 
             // label1
             // 

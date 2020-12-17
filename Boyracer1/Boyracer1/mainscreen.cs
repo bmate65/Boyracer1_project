@@ -42,8 +42,10 @@ namespace Boyracer1
             this.Hide();
         }
         int pénz = 100000;
-        
 
-       
+        private void Autóm_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

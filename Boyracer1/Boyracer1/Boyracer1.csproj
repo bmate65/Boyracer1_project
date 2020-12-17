@@ -109,6 +109,15 @@
   <ItemGroup>
     <None Include="bin\media\osztrija.at.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\media\Audi_80.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zene.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\media\zene.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

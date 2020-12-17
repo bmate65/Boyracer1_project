@@ -76,7 +76,7 @@ namespace Boyracer1
 
         private void Audi80_Click(object sender, EventArgs e)
         {
-            kép.BackgroundImage = Image.FromFile(@"C:\Users\bmate\Documents\Visual Studio 2015\Projects\Boyracer1\Boyracer1\bin\media\Audi_80.jpg");
+            kép.BackgroundImage = Properties.Resources.Audi_80;
         }
     }
 }

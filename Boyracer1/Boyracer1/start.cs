@@ -37,10 +37,11 @@ namespace Boyracer1
             form2.Show();
             this.Hide();
             {
+
+
+                System.Media.SoundPlayer player = new SoundPlayer(Properties.Resources.zene);
                 
-                
-                    SoundPlayer simpleSound = new SoundPlayer(@"C:\Users\bmate\Documents\Visual Studio 2015\Projects\Boyracer1\Boyracer1\bin\media\zene.wav");
-                    simpleSound.PlayLooping();
+                player.PlayLooping();
                     
 
                 

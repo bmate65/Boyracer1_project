@@ -118,6 +118,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="osztrija.at" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\media\osztrija.at.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="garazs" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\media\garazs.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -127,7 +130,10 @@
   <data name="suzuki swift" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\media\suzuki swift.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="osztrija.at" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\media\osztrija.at.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Audi_80" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\media\Audi_80.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="zene" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\media\zene.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

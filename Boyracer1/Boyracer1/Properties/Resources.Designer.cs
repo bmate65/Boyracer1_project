@@ -63,6 +63,16 @@ namespace Boyracer1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Audi_80 {
+            get {
+                object obj = ResourceManager.GetObject("Audi_80", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap garazs {
             get {
                 object obj = ResourceManager.GetObject("garazs", resourceCulture);
@@ -97,6 +107,15 @@ namespace Boyracer1.Properties {
             get {
                 object obj = ResourceManager.GetObject("suzuki swift", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream zene {
+            get {
+                return ResourceManager.GetStream("zene", resourceCulture);
             }
         }
     }
