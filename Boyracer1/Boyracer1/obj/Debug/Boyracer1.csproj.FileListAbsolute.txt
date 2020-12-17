@@ -1,0 +1,11 @@
+c:\users\bmate\documents\visual studio 2015\Projects\Boyracer1\Boyracer1\bin\Debug\Boyracer1.exe.config
+c:\users\bmate\documents\visual studio 2015\Projects\Boyracer1\Boyracer1\bin\Debug\Boyracer1.exe
+c:\users\bmate\documents\visual studio 2015\Projects\Boyracer1\Boyracer1\bin\Debug\Boyracer1.pdb
+c:\users\bmate\documents\visual studio 2015\Projects\Boyracer1\Boyracer1\obj\Debug\Boyracer1.csprojResolveAssemblyReference.cache
+c:\users\bmate\documents\visual studio 2015\Projects\Boyracer1\Boyracer1\obj\Debug\Boyracer1.Startscreen.resources
+c:\users\bmate\documents\visual studio 2015\Projects\Boyracer1\Boyracer1\obj\Debug\Boyracer1.Properties.Resources.resources
+c:\users\bmate\documents\visual studio 2015\Projects\Boyracer1\Boyracer1\obj\Debug\Boyracer1.csproj.GenerateResource.Cache
+c:\users\bmate\documents\visual studio 2015\Projects\Boyracer1\Boyracer1\obj\Debug\Boyracer1.exe
+c:\users\bmate\documents\visual studio 2015\Projects\Boyracer1\Boyracer1\obj\Debug\Boyracer1.pdb
+C:\Users\bmate\Documents\Visual Studio 2015\Projects\Boyracer1\Boyracer1\obj\Debug\Boyracer1.mainscreen.resources
+C:\Users\bmate\Documents\Visual Studio 2015\Projects\Boyracer1\Boyracer1\obj\Debug\Boyracer1.market.resources
